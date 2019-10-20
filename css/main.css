@@ -1,0 +1,57 @@
+@charset 'utf-8'
+html{
+	 height:100%;
+}
+body{
+	padding:0px;
+	bording:0px;
+	color: cadetblue;
+	background-color:aliceblue;
+	font-family: "幼圆";
+	font-size:16px;
+}
+h1{
+	font-family:"黑体";
+	font-size:20px;
+	color:aqua;
+}
+hz,h2,h3,h4{
+	font-family: "黑体";
+	tont-size:16px;
+	color:aqua;
+	font-family: "幼圆";
+}
+p1,p4{
+	line-height: 2em;
+	font-family:"华文楷体"," Adobe 楷体 Std R"," Adobe 宋体 Std L";
+	text-indent:2em;
+	font-size:32px;
+}
+a:link {
+    color: #C88D73;
+    text-decoration: none;}
+a:visited {
+    color: #C88D73;
+    text-decoration: none}
+a:hover {
+    color: #F09A2D;
+    text-decoration: none;}
+a:active {
+    color: #F09A2D;
+    text-decoration: none}
+div{
+	class:80%;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-right-width:auto;
+	border-left-width:auto;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:20px;
+	padding-right:20px;
+	size:80%,80%;
+}
+li{
+   height:30px;
+   line-height:30px;
+}
